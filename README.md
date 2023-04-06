@@ -33,7 +33,5 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ihabsouey&show_icons=true&locale=en&layout=compact"
         alt="ihabsouey" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihabsouey&show_icons=true&locale=en"
-        alt="ihabsouey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihabsouey&" alt="ihabsouey" /></p>
