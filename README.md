@@ -18,3 +18,22 @@
   <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
   <a href="https://nodejs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="40" height="40" style="max-width: 100%;"> </a>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihabsouey&label=Profile%20views&color=0e75b6&style=flat"
+        alt="ihabsouey" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=ihabsouey" alt="ihabsouey" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img
+            src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+ 
+
+<p><img align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=ihabsouey&show_icons=true&locale=en&layout=compact"
+        alt="ihabsouey" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihabsouey&show_icons=true&locale=en"
+        alt="ihabsouey" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihabsouey&" alt="ihabsouey" /></p>
